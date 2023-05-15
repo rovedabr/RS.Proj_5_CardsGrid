@@ -1,11 +1,11 @@
-# Projeto 06
+# Projeto 05 - Cartões em Grid
 
 ## RECENTES - Trabalhos
 
 Projeto de programação HTML e CCS.
 
 - Estruturação semântica;
-- CSS avançado
+- CSS avnçado
 - Grid
 - Posicionmento e orientação de elementos.
 - Box Model e Flexbox.
